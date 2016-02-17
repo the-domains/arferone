@@ -1,0 +1,28 @@
+name: 'A|R Ferone'
+favicon: null
+layout_spectrum: 0.7748596260789782
+typography_spectrum: 0.09216097602620721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.033298022113740444
+  lightness: 0.4193458512891084
+  saturation: 0.6464028274640441
+  rhythmicContrast: 0.6529653843026608
+purpose: []
